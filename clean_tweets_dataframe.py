@@ -7,7 +7,7 @@ class Clean_Tweets:
     """
     def __init__(self, df:pd.DataFrame):
         self.df = df
-        print('Automation in Action...!!!')
+        print('..................Satrt .................!!!')
         
     def drop_unwanted_column(self, df:pd.DataFrame)->pd.DataFrame:
         """
